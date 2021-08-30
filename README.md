@@ -75,7 +75,17 @@ Once your pull request has been merged, you can delete your branch.
  ## Author 🎓
  <hr>
 
-<img style="border-radius: 50%;" align="center" src="https://avatars.githubusercontent.com/u/12980509?v=4" width="100px;" alt="Junior Alves"/>
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Thejuniordev">
+                <img src="https://avatars.githubusercontent.com/u/12980509?v=4" width="150px;" alt="Image do Junior Alves" />
+                <br />
+                <sub><b>Junior Alves</b></sub>
+            </a>
+        </td>    
+    </tr>
+</table>
 <br /> 
 
 <h4 align="center">
