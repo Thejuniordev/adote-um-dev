@@ -1,4 +1,4 @@
-<h1 align="center"> 🚧  Adote um Dev, the platform is still under development 🚧 </h1>
+<h3 align="center"> 🚧  Adote um Dev, the platform is still under development 🚧 </h3>
 
 ## About the project 💻 
 <hr>
@@ -7,19 +7,28 @@ The project was created to help the dev community to grow and help those who are
 ## Project idea 💡
 <hr>
  - Make a connection between people who need help and who want to help
+ <br>
  - Further increase the knowledge base of beginning devs.
 
 ## Screenshots of platform 🖼
 <hr>
-![Home](/images/home.png?raw=true "Home")
-![Sobre](/images/sobre.png?raw=true "Sobre")
-![Devs](/images/devs.png?raw=true "Devs")
+<img src="./images/home.png" alt="Tela Principal"> 
+<img src="./images/sobre.png" alt="Tela Sobre"> 
+<img src="./images/devs.png" alt="Telas Devs"> 
+
 ## Tecnologias usadas 🛠
 <hr>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
-
+<p align="left">
+<a href="" target="_blank">
+<img width="120" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS">
+</a>
+<a href="" target="_blank">
+<img width="120" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript">
+</a>
+<a href="" target="_blank">
+<img width="120" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
+</a>
+</p>
 ## Getting Started 👷
 <hr>
 To start development, you need to clone the GitHub project into a directory of your choice:
@@ -64,12 +73,12 @@ Once your pull request has been merged, you can delete your branch.
  <hr>
 
 <a href="https://github.com/Thejuniordev">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/12980509?v=4" width="100px;" alt="Junior Alves"/>
+ <img style="border-radius: 50%;" align="center" src="https://avatars.githubusercontent.com/u/12980509?v=4" width="100px;" alt="Junior Alves"/>
  <br />
- <sub><b>Junior Alves</b></sub></a> <a href="https://github.com/Thejuniordev" title="+Developers">🚀</a>
-
-
-Feito com ❤️ por Junior Alves 👋🏽 Entre em contato!
+</a> 
+<h4 align="center">
+   Made with 💜 by  <a href="https://www.linkedin.com/in/junior-alves-3a8b3296/" target="_blank"> Junior Alves 👋🏽 Entre em contato!</a>
+</h4>
 
  <a href="https://twitter.com/junyor_alves" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
