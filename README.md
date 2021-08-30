@@ -16,19 +16,22 @@ The project was created to help the dev community to grow and help those who are
 <img src="./images/sobre.png" alt="Tela Sobre"> 
 <img src="./images/devs.png" alt="Telas Devs"> 
 
-## Tecnologias usadas 🛠
+## Technologies used 🛠
 <hr>
 <p align="left">
-<a href="" target="_blank">
-<img width="120" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS">
+<a href="https://nextjs.org/" target="_blank">
+<img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS">
 </a>
-<a href="" target="_blank">
-<img width="120" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript">
+-
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript">
 </a>
-<a href="" target="_blank">
-<img width="120" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
+-
+<a href="https://sass-lang.com/" target="_blank">
+<img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
 </a>
 </p>
+
 ## Getting Started 👷
 <hr>
 To start development, you need to clone the GitHub project into a directory of your choice:
@@ -72,12 +75,11 @@ Once your pull request has been merged, you can delete your branch.
  ## Author 🎓
  <hr>
 
-<a href="https://github.com/Thejuniordev">
- <img style="border-radius: 50%;" align="center" src="https://avatars.githubusercontent.com/u/12980509?v=4" width="100px;" alt="Junior Alves"/>
- <br />
-</a> 
+<img style="border-radius: 50%;" align="center" src="https://avatars.githubusercontent.com/u/12980509?v=4" width="100px;" alt="Junior Alves"/>
+<br /> 
+
 <h4 align="center">
-   Made with 💜 by  <a href="https://www.linkedin.com/in/junior-alves-3a8b3296/" target="_blank"> Junior Alves 👋🏽 Entre em contato!</a>
+   Made with 💜  by  <a href="https://www.linkedin.com/in/junior-alves-3a8b3296/" target="_blank"> Junior Alves 👋🏽 Entre em contato!</a>
 </h4>
 
  <a href="https://twitter.com/junyor_alves" target="_blank">
