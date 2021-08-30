@@ -1,4 +1,6 @@
-<h3 align="center"> 🚧  Adote um Dev, the platform is still under development 🚧 </h3>
+<h1 align="center">Adote um Dev</h1>
+<br>
+<h3 align="center"> 🚧  The platform is still under development 🚧 </h3>
 
 ## About the project 💻 
 <hr>
