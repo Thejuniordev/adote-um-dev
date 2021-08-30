@@ -22,15 +22,15 @@ The project was created to help the dev community to grow and help those who are
 <hr>
 <p align="left">
 <a href="https://nextjs.org/" target="_blank">
-<img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS">
+<img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS">
 </a>
 -
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript">
+<img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript">
 </a>
 -
 <a href="https://sass-lang.com/" target="_blank">
-<img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
+<img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
 </a>
 </p>
 
