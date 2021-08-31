@@ -42,6 +42,14 @@ header {
                             }
                         }
                     }
+                    &.active {
+                        a{
+                            color: $blue;
+                            &::before {
+                                width: 60%
+                            }
+                        }
+                    }
                 }
             }
         }

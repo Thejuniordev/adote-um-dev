@@ -16,7 +16,7 @@ export function Header() {
 
                     <nav className={styles.content__navbar}>
                         <ul>
-                            <li>
+                            <li className={styles.active}>
                                 <a href="#">
                                     Home
                                 </a>
