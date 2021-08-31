@@ -32,11 +32,14 @@ header {
                             left: 0;
                             width: 0;
                             height: 3px;
-                            background-color: #000;
+                            background-color: $blue;
                             transition: all .3s ease;
                         }
-                        &:hover::before {
-                            width: 60%;
+                        &:hover{
+                            color: $blue;
+                            &::before {
+                                width: 60%;
+                            }
                         }
                     }
                 }

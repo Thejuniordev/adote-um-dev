@@ -1,3 +1,4 @@
+@import '../utilities/variables';
 .btn {
     cursor: pointer;
     border: none;
@@ -7,5 +8,16 @@
     font-weight: bold;
     &__medium {
         max-width: 120px;
+    }
+    &__primary {
+        background-color: $blue_2;
+        color: $blue;
+        transition: all .3s ease;
+        &:hover {
+            background-color: $blue;
+            color: $blue_2;
+            transition: all .3s ease;
+            box-shadow: 1px 1px 20px 0px $blue_1;
+        }
     }
 }

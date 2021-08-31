@@ -34,7 +34,7 @@ export function Header() {
                         </ul>
                     </nav>
 
-                    <button className="btn btn__medium">Acessar</button>
+                    <button className="btn btn__medium btn__primary">Acessar</button>
                 </div>
             </div>
         </header>
