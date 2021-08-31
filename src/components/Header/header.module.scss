@@ -1,0 +1,46 @@
+@import '../../styles/utilities/variables';
+header {
+    .content {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid $gray_1;
+        padding: 10px 0;
+        &__logo {
+            position: relative;
+            width: 100%;
+            max-width: 70px;
+            height: 70px;
+            margin: 0;
+        }
+        &__navbar {
+            width: 100%;
+            max-width: 300px;
+            ul {
+                display: flex;
+                justify-content: space-between;
+                li {
+                    a {
+                        position: relative;
+                        padding-bottom: 5px;
+                        font-weight: bold;
+                        &::before {
+                            content: '';
+                            position: absolute;
+                            bottom: 0;
+                            left: 0;
+                            width: 0;
+                            height: 3px;
+                            background-color: #000;
+                            transition: all .3s ease;
+                        }
+                        &:hover::before {
+                            width: 60%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

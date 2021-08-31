@@ -1,0 +1,11 @@
+.btn {
+    cursor: pointer;
+    border: none;
+    width: 100%;
+    padding: 15px 0;
+    border-radius: 10px;
+    font-weight: bold;
+    &__medium {
+        max-width: 120px;
+    }
+}

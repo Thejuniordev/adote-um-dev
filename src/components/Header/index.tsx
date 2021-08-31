@@ -1,15 +1,20 @@
+import Image  from 'next/image';
+
+import Logo from '../../../public/images/logo_adote.png';
+import styles  from './header.module.scss';
+
 export function Header() {
     return(
         <header>
             <div className="container">
-                <div className="content">
-                    <h1>
+                <div className={styles.content}>
+                    <h1 className={styles.content__logo}>
                         <a href="#">
-                            <img src="" alt="logo" />
+                            <Image src={Logo} alt="Logo" layout="fill" />
                         </a>
                     </h1>
 
-                    <nav>
+                    <nav className={styles.content__navbar}>
                         <ul>
                             <li>
                                 <a href="#">
@@ -29,7 +34,7 @@ export function Header() {
                         </ul>
                     </nav>
 
-                    <button>Acessar</button>
+                    <button className="btn btn__medium">Acessar</button>
                 </div>
             </div>
         </header>
