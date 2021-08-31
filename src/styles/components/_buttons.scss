@@ -20,4 +20,14 @@
             box-shadow: 1px 1px 20px 0px $blue_1;
         }
     }
+    &__blue {
+        background-color: $blue;
+        color: $blue_2;
+        &:hover {
+            background-color: $blue;
+            color: $blue_2;
+            transition: all .3s ease;
+            box-shadow: 1px 1px 20px 0px $blue_1;
+        }
+    }
 }

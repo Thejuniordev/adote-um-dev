@@ -1,0 +1,22 @@
+@import '../../styles/utilities/variables';
+
+.banner {
+    padding: 20px;
+    .content {
+        width: 100%;
+        max-width: 50%;
+        margin-left: auto;
+        &__title {
+            text-transform: uppercase;
+            text-align: right;
+            font-size: 10rem;
+            margin: 0;
+            color: $blue;
+        }
+        &__text {
+            text-align: right;
+            font-size: 3rem;
+            padding-left: 60px;
+        }
+    }
+}
