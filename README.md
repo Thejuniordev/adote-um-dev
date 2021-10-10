@@ -68,7 +68,7 @@ git checkout -b my-feature
 git commmit -m 'my-feature feat: My new feature'
 ```
 
- - Faça push para a sua branch:
+ - Push to your branch:
  ```bash
 git push origin my-feature
  ```
