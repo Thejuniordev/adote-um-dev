@@ -2,6 +2,11 @@
 <br>
 <h3 align="center"> 🚧  The platform is still under development 🚧 </h3>
 
+## Link to discord discussions
+<a href="https://nextjs.org/" target="_blank">
+https://discord.com/invite/XppcdxFv
+</a>
+
 ## About the project 💻 
 <hr>
 The project was created to help the dev community to grow and help those who are just starting out, you can adopt a dev and thus be the godfather, the one who will help your godson grow.
