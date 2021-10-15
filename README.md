@@ -3,7 +3,7 @@
 <h3 align="center"> 🚧  The platform is still under development 🚧 </h3>
 
 ## Link to discord discussions
-<a href="https://nextjs.org/" target="_blank">
+<a href="https://discord.com/invite/XppcdxFv" target="_blank">
 https://discord.com/invite/XppcdxFv
 </a>
 
