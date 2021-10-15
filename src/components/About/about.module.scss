@@ -1,0 +1,21 @@
+@import '../../styles/utilities/variables';
+
+.about{
+    padding: 20px;
+    .content {
+        width: 100%;
+        max-width: 50%;
+        margin-right: auto;  
+        &__title {
+            font-size: 3rem;
+            margin: 0;
+            color: $blue;
+        }
+    }
+    .buttons {
+        display: flex;
+        width: 100%;
+        max-width: 350px;
+        justify-content: space-between;
+    }
+}
