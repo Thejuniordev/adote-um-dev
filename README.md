@@ -3,8 +3,8 @@
 <h3 align="center"> 🚧  The platform is still under development 🚧 </h3>
 
 ## Link to discord discussions
-<a href="https://discord.com/invite/XppcdxFv" target="_blank">
-https://discord.com/invite/XppcdxFv
+<a href="https://discord.gg/n3s2mh2F" target="_blank">
+https://discord.gg/n3s2mh2F
 </a>
 
 ## About the project 💻 
